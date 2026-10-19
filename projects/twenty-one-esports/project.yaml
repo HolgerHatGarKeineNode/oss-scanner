@@ -1,0 +1,6 @@
+repo: https://github.com/HolgerHatGarKeineNode/twenty-one-esports#master
+primary_contact: office@primesoftware.company
+homepage: https://esports.einundzwanzig.space
+disabled: false
+dockerfile: .oss-scanner/Dockerfile
+threat_model: .oss-scanner/threat_model.md
